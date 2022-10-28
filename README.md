@@ -1,1 +1,2 @@
-good nice 
+good nice. Add the line
+new line
